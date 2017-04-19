@@ -1,9 +1,5 @@
 
-Question: Why....?
 
-Answer: Because I like challenges, and if all you are allowed on a Pentest is a Kali or ParrotOS CD, it is possible
-
-NB: You will need a function X11 server, either locally or over the network to do this install.
 
 ## Step 1: Gather the required part of wine. Assuming Debian based OS as your host
 
